@@ -3,7 +3,7 @@ numRegistros=11
 registradores = []#inicialmente utilizaremos de R0 até R10
 acumulador = [] #usar somente a posição 0(zero)
 #abre o arquivo com os comandos para executar
-entrada = open('aula06\entrada.txt')
+entrada = open('aula08\exercicio.txt')
 programa = entrada.readlines()
 
 
